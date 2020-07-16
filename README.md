@@ -1,6 +1,11 @@
-### Hi I'M ADIL BASHA 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=basha97&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+# Hi, I'm Adil Basha 👋 💻
+
+<p align ="center">
+  <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://wallpaperaccess.com/full/796843.png"></a>
+  <br>
+  I'm a web developers who is passionate about making web technologies more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, ReactJS, AngularJS.  
+  </p>
 
 <!--
 **basha97/basha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
