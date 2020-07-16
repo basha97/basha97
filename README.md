@@ -2,9 +2,8 @@
 # Hi, I'm Adil Basha 👋 💻
 
 <p align ="center">
-  <br/>
+  <br/><a href="#contributing"><img alt="Contributions Welcome" src="https://wallpaperaccess.com/full/796843.png"></a>
   <br>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="width:100px">
   <br>
   I'm a web developers who is passionate about making web technologies more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, ReactJS, AngularJS.  
   </p>
