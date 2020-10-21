@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on [cloudelabs](http://www.cloudelabs.com).
 - 🌱 I’m currently learning Flutter and React.
 - 👯 I’m looking to collaborate on [Github](https://github.com/).
-- ⚡ Fun fact: I almost sleep 10 to 12 hours a day.
+
 
 <br>
 <br/>
