@@ -1,10 +1,7 @@
 
 # Hi, I'm [Adil Basha!](https://github.com/basha97) 👋 💻
 
-<br>
-<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basha97&label=Views&color=blue&style=plastic" alt="basha97" /> </p>
 
 <a href="https://twitter.com/ADILBAS22334438">
   <img align="left" alt="Basha Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
