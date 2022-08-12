@@ -25,7 +25,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Mangoleap](https://mangoleap.com).
+- 🔭 I’m currently working at [Mangoleap](https://mangoleap.com).
 -   I’m currently building  [Gallabox](https://gallabox.com/).
 - 🌱 I’m currently learning Flutter and React.
 - 👯 I’m looking to collaborate on [Github](https://github.com/).
